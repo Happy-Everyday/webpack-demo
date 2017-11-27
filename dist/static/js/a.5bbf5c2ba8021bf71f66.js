@@ -84,7 +84,7 @@ console.log(_b.xuyue);
 Object.defineProperty(exports, "__esModule", {
   value: true
 });
-var xuyue = exports.xuyue = 'xuyue1';
+var xuyue = exports.xuyue = 'xuyue111';
 
 /***/ })
 /******/ ]);
